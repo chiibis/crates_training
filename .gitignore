@@ -14,6 +14,9 @@
 .repl_history
 build/
 
+## IDEA files
+.idea/
+
 ## Documentation cache and generated files:
 /.yardoc/
 /_yardoc/
